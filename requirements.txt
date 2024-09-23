@@ -1,1 +1,6 @@
-streamlit
+# Data analysis
+pandas
+numpy
+
+# HTML requests
+requests
